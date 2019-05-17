@@ -1,4 +1,4 @@
-from sample.calc import Calc
+from poetry_sample.calc import Calc
 
 
 def test_sum():

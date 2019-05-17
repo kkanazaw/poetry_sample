@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "sample"
+name = "poetry_sample"
 version = "0.1.0"
 description = ""
 authors = ["kkanazaw <new.frontier2006@gmail.com>"]
